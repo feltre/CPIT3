@@ -26,7 +26,7 @@ La presentazione di oggi: [galassie_buchineri.pdf](galassie_buchineri.pdf)
 
 - Inserire **RA** e **Dec** nell'apposita casella in alto nella pagina 
 
-- Esplorare immagine e spettri. In particuolare selezionare **Spettro Iterativo**
+- Esplorare immagine e spettri. In particuolare selezionare **Interactive Spectra**
 
 - Dal file, prendere i valori delle colonne 5, 6, 7 e 8 per la vostra galassia. 
 
