@@ -2,12 +2,11 @@
 ## Workshop su galassie e buchi neri - Campus Party Italia
 
 
-La presentazione di oggi - add link to the file
-
+La presentazione di oggi: [galassie_buchineri.pdf](galassie_buchineri.pdf)
 
 ## Esercizio 1
 
-- Connettersi (aprendo una nuova pagina) al sito https://www.zooniverse.org/projects/zookeeper/galaxy-zoo
+- Connettersi (aprendo una nuova pagina) al sito [https://www.zooniverse.org/projects/zookeeper/galaxy-zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo)
 
 - Segli **Classic** o "Enhanced" (per i più impavidi) 
 
@@ -17,7 +16,7 @@ La presentazione di oggi - add link to the file
 
 - Prendere il bigliettino che vi é stato consegnato in cui, come prima cosa,é riportato un numero che va da 1 a 100 oppure scegliere un numero da 1 a 100. Ogni numero/biglietto corrisponde ad una galassia. 
 
-- Scaricare il file - add link to the file
+- Scaricare il file: [file_selected_objects_lines.txt](file_selected_objects_lines.txt )
 
 - Trovare la riga (da 1 a 100) corrispondente alla vostra galassia. Verificare che la colonna 3 e 4 riporti RA e Dec del vostro bigliettino
 
@@ -33,7 +32,8 @@ La presentazione di oggi - add link to the file
 
 - Fare il rapporto tra colonna 5 e 6, e tra colonna 7 e 8 (questi valori sono riportati nelle colonne 9 e 10)
 
-- In questo grafico, l'asse x mostra il rapporto tra colonna 7 e 8, mentre l'asse y tra colonna 5 e 6. 
-**Provate a vedere dove si posiziona la vostra galassia ...e scoprirete se al suo centro c'e' un buco nero che accresce materiale ed emette molta energia!!**
+- Prendiamo il grafico sottostante ( [BPT_full.png](BPT_full.png) ). L'asse x mostra il rapporto tra colonna 7 e 8, mentre l'asse y tra colonna 5 e 6. 
+**Dove si posiziona la vostra galassia?** se si trova **sopra le linee nere**, allora **avete scoperto che al suo centro c'e' un buco nero che accresce materiale ed emette molta energia!!**
 
+![BPT_full](https://user-images.githubusercontent.com/8670711/61797652-1c67cb80-ae28-11e9-8f34-cad775222808.png)
 
