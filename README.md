@@ -14,7 +14,7 @@ La presentazione di oggi: [galassie_buchineri.pdf](galassie_buchineri.pdf)
 
 ## Esercizio 2
 
-- Prendere il bigliettino che vi é stato consegnato in cui, come prima cosa,é riportato un numero che va da 1 a 100 oppure scegliere un numero da 1 a 100. Ogni numero/biglietto corrisponde ad una galassia. 
+- Prendere il bigliettino che vi é stato consegnato in cui, come prima cosa, é riportato un numero che va da 1 a 100 oppure scegliere un numero da 1 a 100. Ogni numero/biglietto corrisponde ad una galassia. 
 
 - Scaricare il file: [file_selected_objects_lines.txt](file_selected_objects_lines.txt )
 
